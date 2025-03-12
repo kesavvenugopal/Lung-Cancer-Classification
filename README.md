@@ -48,10 +48,4 @@ This project aims to develop a **machine learning (XGBoost)** and **deep learnin
 ✔️ Fine-tune the **decision threshold further** for better medical usability.  
 
 ---
-
-
-
-
-
-
 ### 📢 Feel free to explore the notebook and models! 🏥💡
